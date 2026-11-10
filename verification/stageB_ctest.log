@@ -1,0 +1,58 @@
+Test project D:/codex_talk/project_1/project_code/FLASK_theory_validation/build-review-fix1019
+      Start  1: controllability
+ 1/21 Test  #1: controllability ..................   Passed    0.16 sec
+      Start  2: gramian_scaling
+ 2/21 Test  #2: gramian_scaling ..................   Passed    0.04 sec
+      Start  3: theory_assumptions
+ 3/21 Test  #3: theory_assumptions ...............   Passed    0.03 sec
+      Start  4: controllability_custom
+ 4/21 Test  #4: controllability_custom ...........   Passed    0.04 sec
+      Start  5: gramian_scaling_custom
+ 5/21 Test  #5: gramian_scaling_custom ...........   Passed    0.03 sec
+      Start  6: bvp
+ 6/21 Test  #6: bvp ..............................   Passed    0.52 sec
+      Start  7: planner
+ 7/21 Test  #7: planner ..........................   Passed    0.43 sec
+      Start  8: validation
+ 8/21 Test  #8: validation .......................   Passed    0.40 sec
+      Start  9: models
+ 9/21 Test  #9: models ...........................   Passed    0.54 sec
+      Start 10: io
+10/21 Test #10: io ...............................   Passed    0.88 sec
+      Start 11: batch
+11/21 Test #11: batch ............................   Passed    0.49 sec
+      Start 12: geometry
+12/21 Test #12: geometry .........................   Passed    0.46 sec
+      Start 13: cli_integrator
+13/21 Test #13: cli_integrator ...................   Passed    1.09 sec
+      Start 14: cli_unicycle
+14/21 Test #14: cli_unicycle .....................   Passed    0.11 sec
+      Start 15: cli_quad3d
+15/21 Test #15: cli_quad3d .......................   Passed    0.40 sec
+      Start 16: dynobench_uni_bugtrap
+16/21 Test #16: dynobench_uni_bugtrap ............***Not Run (Disabled)   0.00 sec
+      Start 17: dynobench_uni_wall
+17/21 Test #17: dynobench_uni_wall ...............***Not Run (Disabled)   0.00 sec
+      Start 18: dynobench_quad2d_bugtrap
+18/21 Test #18: dynobench_quad2d_bugtrap .........***Not Run (Disabled)   0.00 sec
+      Start 19: dynobench_quad2d_hole
+19/21 Test #19: dynobench_quad2d_hole ............***Not Run (Disabled)   0.00 sec
+      Start 20: dynobench_quad3d_block
+20/21 Test #20: dynobench_quad3d_block ...........***Not Run (Disabled)   0.00 sec
+      Start 21: dynobench_quad3d_window
+21/21 Test #21: dynobench_quad3d_window ..........***Not Run (Disabled)   0.00 sec
+
+100% tests passed out of 15
+
+Label Time Summary:
+dynobench_r2    =   0.00 sec*proc (6 tests)
+
+Total Test time (real) =   5.70 sec
+
+The following tests did not run:
+	 16 - dynobench_uni_bugtrap (Disabled)
+	 17 - dynobench_uni_wall (Disabled)
+	 18 - dynobench_quad2d_bugtrap (Disabled)
+	 19 - dynobench_quad2d_hole (Disabled)
+	 20 - dynobench_quad3d_block (Disabled)
+	 21 - dynobench_quad3d_window (Disabled)

@@ -1,0 +1,56 @@
+{
+  "step_seconds": 0.001,
+  "continuous_certificate": false,
+  "official_dynamics_certificate": false,
+  "paths": [
+    {
+      "stage": "first_solution",
+      "scenario": "dynobench_quad2d_bugtrap_20",
+      "samples": 22645,
+      "overlapping_samples": 0
+    },
+    {
+      "stage": "first_solution",
+      "scenario": "dynobench_quad3d_block_20",
+      "samples": 9171,
+      "overlapping_samples": 0
+    },
+    {
+      "stage": "first_solution",
+      "scenario": "dynobench_quad3d_window_20",
+      "samples": 16771,
+      "overlapping_samples": 0
+    },
+    {
+      "stage": "first_solution",
+      "scenario": "dynobench_uni_wall_20",
+      "samples": 34821,
+      "overlapping_samples": 0
+    },
+    {
+      "stage": "final_solution",
+      "scenario": "dynobench_quad2d_bugtrap_20",
+      "samples": 18691,
+      "overlapping_samples": 0
+    },
+    {
+      "stage": "final_solution",
+      "scenario": "dynobench_quad3d_block_20",
+      "samples": 9357,
+      "overlapping_samples": 0
+    },
+    {
+      "stage": "final_solution",
+      "scenario": "dynobench_quad3d_window_20",
+      "samples": 7103,
+      "overlapping_samples": 0
+    },
+    {
+      "stage": "final_solution",
+      "scenario": "dynobench_uni_wall_20",
+      "samples": 13429,
+      "overlapping_samples": 0
+    }
+  ],
+  "total_overlapping_samples": 0
+}

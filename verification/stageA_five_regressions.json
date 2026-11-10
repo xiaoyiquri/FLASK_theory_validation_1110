@@ -1,0 +1,52 @@
+[
+  {
+    "seed": 23,
+    "success": true,
+    "reason": "connected",
+    "nodes": 63,
+    "duplicate_rejections": 1,
+    "first_solution_seconds": 0.0417134,
+    "cost": 20.829580510193225,
+    "scene": "uni_wall"
+  },
+  {
+    "seed": 29,
+    "success": true,
+    "reason": "connected",
+    "nodes": 54,
+    "duplicate_rejections": 1,
+    "first_solution_seconds": 0.0075802,
+    "cost": 23.18897795983456,
+    "scene": "quad2d_bugtrap"
+  },
+  {
+    "seed": 27,
+    "success": true,
+    "reason": "connected",
+    "nodes": 74,
+    "duplicate_rejections": 1,
+    "first_solution_seconds": 0.0056214,
+    "cost": 12.499490650897734,
+    "scene": "quad2d_hole"
+  },
+  {
+    "seed": 36,
+    "success": true,
+    "reason": "connected",
+    "nodes": 67,
+    "duplicate_rejections": 1,
+    "first_solution_seconds": 0.0046905,
+    "cost": 17.13662193738108,
+    "scene": "quad2d_hole"
+  },
+  {
+    "seed": 39,
+    "success": true,
+    "reason": "connected",
+    "nodes": 84,
+    "duplicate_rejections": 1,
+    "first_solution_seconds": 0.0105377,
+    "cost": 23.372452741498684,
+    "scene": "quad2d_hole"
+  }
+]

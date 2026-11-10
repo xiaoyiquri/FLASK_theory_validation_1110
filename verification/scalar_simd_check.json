@@ -1,0 +1,18 @@
+{
+  "first_solution": {
+    "segments": true,
+    "cost": true,
+    "trajectory_length_m": true,
+    "duration": true,
+    "flat_start": true,
+    "flat_goal": true
+  },
+  "final_solution": {
+    "segments": true,
+    "cost": true,
+    "trajectory_length_m": true,
+    "duration": true,
+    "flat_start": true,
+    "flat_goal": true
+  }
+}

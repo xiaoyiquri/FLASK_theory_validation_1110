@@ -1,0 +1,11 @@
+{
+  "runs": 6,
+  "successes": 4,
+  "checkpoints": 42,
+  "independently_integrated_first_final_paths": 8,
+  "max_objective_relative_error": 4.053369334421168e-16,
+  "max_length_difference_m": 4.096642911122217e-06,
+  "max_flat_endpoint_or_join_error": 2.55351295663786e-15,
+  "native_verified_stages": 0,
+  "source_sha256": "15882bcb019c0276562e993a8da2c0fd5f2dd262fffb2beeed8bf615a9ecdbf7"
+}
